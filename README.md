@@ -1,2 +1,3 @@
-# CodeLabs
-Repository for the projects of codelabs from App Machine
+# First of the codelabs for App Machine.
+This first lab is a simple chat built using firebase functionalities
+
